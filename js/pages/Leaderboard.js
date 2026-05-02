@@ -98,12 +98,17 @@ export default {
         },
     },
     async mounted() {
+    try {
         const [leaderboard, err] = await fetchLeaderboard();
-        this.leaderboard = leaderboard;
-        this.err = err;
-        // Hide loading spinner
+        this.leaderboard = leaderboard || [];
+        this.err = err || [];
+    } catch (e) {
+        console.error(e);
+        this.err = ['Failed to load leaderboard'];
+    } finally {
         this.loading = false;
-    },
+    }
+}
     methods: {
         localize,
     },
