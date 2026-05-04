@@ -1,0 +1,30 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "Liz",
+    "verification": "https://www.youtube.com/watch?v=_XKKemgWmkQ",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mato",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Angel",
+            "link": "https://medal.tv/games/geometry-dash/clips/myt4wlCJJ_dh5XoTz?invite=cr-MSxxUHEsMjE2ODk3OTkx",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Exotic",
+            "link": "https://youtu.be/FwLH8dLERgk?si=F0S08t6_fyIUnBlA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
