@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
+        {
+            "user": "playboicatboy",
+            "link": "https://youtu.be/vTbKvOdH9RU?is=2RIcsS2ERawx35oo",
+            "percent": 100,
+            "hz": 100
+        }
     ]
 }

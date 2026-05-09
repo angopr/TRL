@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/shorts/VNX0vZSVg2I",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "OverConfident",
+            "link": "https://www.youtube.com/watch?v=WimrbJNSwQw",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }

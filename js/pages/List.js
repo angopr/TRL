@@ -109,7 +109,7 @@ export default {
                         VERIFICATIONS only must be uploaded onto YouTube. This is because the website won't allow you to play the video if it's uploaded on anything else. Records can be uploaded through anything.
                     </p>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 480fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
