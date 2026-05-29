@@ -1,0 +1,24 @@
+{
+    "id": 121552794,
+    "name": "Tower C",
+    "author": "AllonRed",
+    "creators": [],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=CsEReegUDBg",
+    "percentToQualify": "100",
+    "password": "no",
+    "records": [
+                       {
+            "user": "Squeeg",
+      "link": "",
+      "hz": "CBF",
+      "percent": 100
+       },
+                {
+            "user": "Cyber<3<3",
+      "link": "https://discord.com/channels/1420111313220403444/1500070219635232909/1500070219635232909",
+      "hz": "CBF",
+      "percent": 100
+       }
+    ]
+}
