@@ -1,12 +1,12 @@
 {
     "id": 127089408,
-    "name": "Wrath of The Machine(no rt)",
+    "name": "Wrath of The Machine",
     "author": "Squeeg",
     "creators": ["Squeeg"],
     "verifier": "Squeeg",
     "verification": "https://www.youtube.com/watch?v=QgHt50ksyuo",
     "percentToQualify": 100,
-    "password": "tung",
+    "password": "no",
     "records": [
         {
             "user": "AngoPR",
