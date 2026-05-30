@@ -1,0 +1,18 @@
+{
+    "id": 129148099,
+    "name": "Liknod tutorial",
+    "author": "Frozix",
+    "creators": [],
+    "verifier": "G1rcy",
+    "verification": "https://youtu.be/52zt36vDtzU?si=0eltvC90SqLnM7Iw",
+    "percentToQualify": "100",
+    "password": "Yes",
+    "records": [
+                            {
+            "user": "AngoPR",
+            "link": "https://youtu.be/FQEsBVct7XA?si=28NWyTXXKyUBCBrK",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}
