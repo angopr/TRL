@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "no",
     "records": [
+                      {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1509293708527407154/1509296669890449459/1509927931110232064",
+            "hz": 240,
+            "percent": 100
+        },
+                      {
+            "user": "AngoPR",
+            "link": "https://youtu.be/Msh3SsWIV-Y?si=i9UtTkJBk7cc1Quh",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
