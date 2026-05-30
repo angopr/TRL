@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Yes",
     "records": [
+                        {
+        "user": "AngoPR",
+        "link": "https://youtu.be/qigFLR4jg3o?si=2j3Fhw3koUWPTdAz",
+            "hz": "CBF",
+            "percent": 100
+        },
+                                {
+        "user": "clairetrt",
+        "link": "https://youtu.be/NuGn4hXClAk?si=Cs4nSY2gLp2N_EKY",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
