@@ -8,17 +8,17 @@
     "percentToQualify": "100",
     "password": "no",
     "records": [
-                       {
-            "user": "Squeeg",
-      "link": "",
-      "hz": "CBF",
-      "percent": 100
-       },
                 {
             "user": "Cyber<3<3",
       "link": "https://discord.com/channels/1420111313220403444/1500070219635232909/1500070219635232909",
       "hz": "CBF",
       "percent": 100
-       }
+       },
+        {
+        "user": "Delgado_yeet_404",
+        "link": "https://youtu.be/fp_YKEHRA4k",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }
