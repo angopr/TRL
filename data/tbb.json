@@ -8,12 +8,5 @@
     "percentToQualify": "100",
     "password": "yes",
     "records": [
-        {
-            "user": "ywuChaos",
-            "link": "https://www.youtube.com/watch?v=qWSlMEPABQQ",
-            "hz": 240,
-            "percent": 100
-       
-        }
     ]
 }
