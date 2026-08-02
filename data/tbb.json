@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "yes",
     "records": [
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://youtu.be/-uQnJ7qZo5E?si=P40pEOwtIr0--5Xs",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
