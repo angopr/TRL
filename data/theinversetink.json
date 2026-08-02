@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "No",
     "records": [
+                {
+            "user": "angopr",
+            "link": "https://youtu.be/HnhPTOkAjNc?si=awkdqos0juX9hhCc",
+            "hz": 240,
+            "percent": 100
+        }
 ]
 }
