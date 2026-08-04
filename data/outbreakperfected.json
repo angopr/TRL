@@ -1,18 +1,12 @@
 {
     "id": 136559016,
-    "name": "Outbreak Perfected",
-    "author": "Squeeg",
-    "creators": ["Squeeg, Hypersonic_Time"],
-    "verifier": "Squeeg",
-    "verification": "https://www.youtube.com/watch?v=7ewj_I-P5Pc",
-    "percentToQualify": 90,
+    "name": "Trials Of Ghomus",
+    "author": "Delgado_Yeet_404",
+    "creators": ["Squeeg, Hypersonic_Time, Delgado_Yeet_404"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "hhttps://youtu.be/t3IN0tCbJ2g?si=rTCfEMmYfA9AqeBl",
+    "percentToQualify": 100,
     "password": "no",
     "records": [
-        {
-            "user": "Delgado_yeet_404",
-            "link": "https://youtu.be/FYielGIXwa0?si=ISbnyVE709MlsOb7",
-            "hz": "CBF",
-            "percent": 100
-         }
     ]
 }
