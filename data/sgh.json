@@ -1,5 +1,5 @@
 {
-    "id": 131732762,
+    "id": 146276417,
     "name": "somedude gets high",
     "author": "Squeeg",
     "creators": [],
@@ -8,17 +8,17 @@
     "percentToQualify": "100",
     "password": "no",
     "records": [
-        {
-            "user": "Squeeg",
-      "link": "https://www.youtube.com/watch?v=Daeqq6zPR3Y",
-      "hz": "CBF",
-      "percent": 100
-       },
-             {
-            "user": "ShayPlaz",
-      "link": "https://youtu.be/uhJRaPks59g?si=IrEMyoguaQ451pGk",
-      "hz": "CBF",
-      "percent": 100
-       }
+    {
+    "user": "Squeeg",
+    "link": "https://www.youtube.com/watch?v=Daeqq6zPR3Y",
+    "hz": "CBF",
+    "percent": 100
+    },
+    {
+    "user": "Delgado_Yeet_404",
+    "link": "https://youtu.be/uhJRaPks59g?si=IrEMyoguaQ451pGk",
+    "hz": "CBF",
+    "percent": 100
+    }
     ]
 }
