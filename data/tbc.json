@@ -1,5 +1,5 @@
 {
-    "id": 121552014,
+    "id": 146388301,
     "name": "The Big Christmas",
     "author": "Squeeg",
     "creators": ["Squeeg, SomeDudeV3"],
@@ -8,11 +8,17 @@
     "percentToQualify": 100,
     "password": "No",
     "records": [
-                        {
-            "user": "AngoPR",
-      "link": "https://youtu.be/dZIilsYA6eg?si=Gk41Ja_c3cX-deoi",
-      "hz": "CBF",
-      "percent": 100
-        }
+    {
+    "user": "AngoPR",
+    "link": "https://youtu.be/dZIilsYA6eg?si=Gk41Ja_c3cX-deoi",
+    "hz": "CBF",
+    "percent": 100
+    },
+    {
+    "user": "Delgado_Yeet_404",
+    "link": "https://youtu.be/_8P-yldaDbc?si=a-mx9aC9Ymd8CGiV",
+    "hz": "CBF",
+    "percent": 100
+    }
     ]
 }
