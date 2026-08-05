@@ -8,11 +8,17 @@
     "percentToQualify": "100",
     "password": "No",
     "records": [
-                        {
-            "user": "angopr",
-            "link": "https://youtu.be/HnhPTOkAjNc?si=awkdqos0juX9hhCc",
-            "hz": 240,
-            "percent": 100
-        }
+    {
+    "user": "angopr",
+    "link": "https://youtu.be/HnhPTOkAjNc?si=awkdqos0juX9hhCc",
+    "hz": 240,
+    "percent": 100
+    },
+    {
+    "user": "Delgado_Yeet_404",
+    "link": "https://youtu.be/_8P-yldaDbc?si=h8qSYpmxPYeNhQcl",
+    "percent": 100,
+    "hz": 240
+    }
     ]
 }
