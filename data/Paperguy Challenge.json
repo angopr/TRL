@@ -8,16 +8,17 @@
     "percentToQualify": 63,
     "password": "yes",
     "records": [
-        {
-        "user": "G1rcy",
-        "link": "https://youtu.be/FCaVhxVOZ2c",
-        "hz": 240,
-        "percent": 100
-        },
-        {
-        "user": "Delgado_yeet_404",
-        "link": "https://youtu.be/tJNO7Uf_kcE?si=WtijlGeKMF4z42ze",
-        "hz": 240,
-        "percent": 100
-        }
+    {
+    "user": "G1rcy",
+    "link": "https://youtu.be/FCaVhxVOZ2c",
+    "hz": 240,
+    "percent": 100
+    },
+    {
+    "user": "Delgado_yeet_404",
+    "link": "https://youtu.be/tJNO7Uf_kcE?si=WtijlGeKMF4z42ze",
+    "hz": 240,
+    "percent": 100
+    }
     ]
+}
