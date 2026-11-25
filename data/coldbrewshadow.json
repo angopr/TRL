@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "yes",
     "records": [
+        {
+        "user":"AngoPR
+        "link":"",
+        "hz":"CBF",
+        "percent":100,
+        }
     ]
 }
